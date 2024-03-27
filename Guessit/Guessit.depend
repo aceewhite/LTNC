@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711042348 source:c:\users\admin\documents\ltnc th\guessit\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cstdlib>
+
